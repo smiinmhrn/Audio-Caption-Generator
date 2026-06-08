@@ -24,9 +24,6 @@ env/
 *.mp3
 *.flac
 
-# Large Data Files
-*.parquet
-*.csv
 
 # Logs
 *.log
